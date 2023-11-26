@@ -17,7 +17,6 @@ header {
 	padding-left: 30px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   font-size: 17px;
 }
 .search{
